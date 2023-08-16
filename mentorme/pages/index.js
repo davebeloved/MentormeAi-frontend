@@ -100,6 +100,7 @@ export default function Home() {
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             Discover and deploy boilerplate example Next.js&nbsp;projects.
           </p>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>new changes</p>
         </a>
 
         <a
